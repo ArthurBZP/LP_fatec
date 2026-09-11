@@ -5,4 +5,7 @@ if resto == 0:
     print("O número ", numero, " eh par")
 else:
     print("O número", numero, "eh ímpar")
+
+
+print("Teste git")    
     
