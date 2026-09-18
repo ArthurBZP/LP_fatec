@@ -9,6 +9,3 @@ print(resultado)
 resultado = maiorvalor (8, 9)
 print(resultado)
 resultado = maiorvalor (40, 5)
-
-        
-
